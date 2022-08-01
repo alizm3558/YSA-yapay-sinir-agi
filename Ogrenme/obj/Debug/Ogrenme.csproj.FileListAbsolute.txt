@@ -1,0 +1,17 @@
+D:\6.Dönem\Yapay Zeka\Sınav çalışması\Ogrenme\Ogrenme\bin\Debug\Ogrenme.exe.config
+D:\6.Dönem\Yapay Zeka\Sınav çalışması\Ogrenme\Ogrenme\bin\Debug\Ogrenme.exe
+D:\6.Dönem\Yapay Zeka\Sınav çalışması\Ogrenme\Ogrenme\bin\Debug\Ogrenme.pdb
+D:\6.Dönem\Yapay Zeka\Sınav çalışması\Ogrenme\Ogrenme\obj\Debug\Ogrenme.csprojAssemblyReference.cache
+D:\6.Dönem\Yapay Zeka\Sınav çalışması\Ogrenme\Ogrenme\obj\Debug\Ogrenme.Form1.resources
+D:\6.Dönem\Yapay Zeka\Sınav çalışması\Ogrenme\Ogrenme\obj\Debug\Ogrenme.Properties.Resources.resources
+D:\6.Dönem\Yapay Zeka\Sınav çalışması\Ogrenme\Ogrenme\obj\Debug\Ogrenme.csproj.GenerateResource.cache
+D:\6.Dönem\Yapay Zeka\Sınav çalışması\Ogrenme\Ogrenme\obj\Debug\Ogrenme.csproj.CoreCompileInputs.cache
+D:\6.Dönem\Yapay Zeka\Sınav çalışması\Ogrenme\Ogrenme\obj\Debug\Ogrenme.exe
+D:\6.Dönem\Yapay Zeka\Sınav çalışması\Ogrenme\Ogrenme\obj\Debug\Ogrenme.pdb
+D:\6.Dönem\Yapay Zeka\Sınav çalışması\Ogrenme\Ogrenme\bin\Debug\ExcelDataReader.DataSet.dll
+D:\6.Dönem\Yapay Zeka\Sınav çalışması\Ogrenme\Ogrenme\bin\Debug\ExcelDataReader.dll
+D:\6.Dönem\Yapay Zeka\Sınav çalışması\Ogrenme\Ogrenme\bin\Debug\ExcelDataReader.pdb
+D:\6.Dönem\Yapay Zeka\Sınav çalışması\Ogrenme\Ogrenme\bin\Debug\ExcelDataReader.xml
+D:\6.Dönem\Yapay Zeka\Sınav çalışması\Ogrenme\Ogrenme\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\6.Dönem\Yapay Zeka\Sınav çalışması\Ogrenme\Ogrenme\bin\Debug\ExcelDataReader.DataSet.xml
+D:\6.Dönem\Yapay Zeka\Sınav çalışması\Ogrenme\Ogrenme\obj\Debug\Ogrenme.csproj.CopyComplete
